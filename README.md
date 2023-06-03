@@ -9,7 +9,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### [Deployed link](https://knapchat-rizon.netlify.app/)
 
-https://knapchat-rizon.netlify.app/
-
-
 ![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
